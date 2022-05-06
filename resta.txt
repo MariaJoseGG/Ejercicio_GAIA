@@ -1,0 +1,1 @@
+Esto es una resta -> 1 - 1 = 0
